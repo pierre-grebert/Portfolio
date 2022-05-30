@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://pierre-grebert.github.io/Portfolio/categories/</loc>
     <lastmod>2022-05-09T10:25:36+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/d%C3%A9veloppement-web/</loc>
+    <loc>https://pierre-grebert.github.io/Portfolio/categories/d%C3%A9veloppement-web/</loc>
     <lastmod>2022-05-09T10:25:36+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://pierre-grebert.github.io/Portfolio/</loc>
     <lastmod>2022-05-09T10:25:36+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/projet/</loc>
+    <loc>https://pierre-grebert.github.io/Portfolio/categories/projet/</loc>
     <lastmod>2022-05-09T10:25:36+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/projet1/</loc>
+    <loc>https://pierre-grebert.github.io/Portfolio/projets/projet1/</loc>
     <lastmod>2022-05-09T10:25:36+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/projet2/</loc>
+    <loc>https://pierre-grebert.github.io/Portfolio/projets/projet2/</loc>
     <lastmod>2022-05-09T10:25:36+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/projet3/</loc>
+    <loc>https://pierre-grebert.github.io/Portfolio/projets/projet3/</loc>
     <lastmod>2022-05-09T10:25:36+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/</loc>
+    <loc>https://pierre-grebert.github.io/Portfolio/projets/</loc>
     <lastmod>2022-05-09T10:25:36+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://pierre-grebert.github.io/Portfolio/blog/</loc>
     <lastmod>2022-04-25T11:15:34+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/mon-deuxieme-article/</loc>
+    <loc>https://pierre-grebert.github.io/Portfolio/blog/mon-deuxieme-article/</loc>
     <lastmod>2022-04-25T11:15:34+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/mon-premier-article/</loc>
+    <loc>https://pierre-grebert.github.io/Portfolio/blog/mon-premier-article/</loc>
     <lastmod>2022-04-25T11:15:34+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://pierre-grebert.github.io/Portfolio/tags/</loc>
   </url>
 </urlset>
